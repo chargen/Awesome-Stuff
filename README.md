@@ -1,5 +1,19 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------
+      https://github.com/fuzzdb-project/fuzzdb
+      https://github.com/ajinabraham/Mobile-Security-Framework-MobSF
+      https://github.com/trustedsec/ptf
+      https://github.com/rbsec/sslscan
+      https://github.com/golismero/golismero
+      https://github.com/techgaun/github-dorks
+      https://github.com/enaqx/awesome-pentest
+      https://github.com/danielmiessler/SecLists
+      https://github.com/NARKOZ/hacker-scripts
+      https://github.com/Snifer/security-cheatsheets
+      https://github.com/jshaw87/Cheatsheets
+      https://github.com/danielmiessler/RobotsDisallowed
+      https://github.com/jshaw87/Scripts
+      https://github.com/rustyrobot/fuzzdb
       https://bitbucket.org/LaNMaSteR53/recon-ng.git
       https://github.com/1N3/BruteX.git
       https://github.com/DanMcInerney/net-creds.git
